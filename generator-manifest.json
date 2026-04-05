@@ -1,0 +1,19 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "displays service name instead of number when zapping via number keys",
+  "description_recipe": "displays service name instead of number when zapping via number keys",
+  "history_source_dir": "namezap",
+  "internal_package_name": "enigma2-plugin-extensions-namezap",
+  "module_dir_name": "NameZap",
+  "output_subdir": "namezap",
+  "package_name": "enigma2-plugin-extensions-namezap",
+  "plugin_src_rel": "namezap",
+  "python_package": "NameZap",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "NameZap",
+  "rrecommends": "",
+  "rreplaces": "",
+  "selected_from_plugin_list": true
+}
